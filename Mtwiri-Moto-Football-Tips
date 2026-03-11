@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Mtwiri Moto Football Tips</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<header>
+⚽ Mtwiri Moto Football Tips
+</header>
+
+<div class="container">
+
+<h2>🔥 Free Daily Predictions</h2>
+
+<div class="tip">
+<h3>Arsenal vs Porto</h3>
+<p>Prediction: Over 2.5</p>
+<p>Odds: 1.80</p>
+</div>
+
+<div class="tip">
+<h3>Barcelona vs Napoli</h3>
+<p>Prediction: Home Win</p>
+<p>Odds: 1.65</p>
+</div>
+
+<div class="tip">
+<h3>PSG vs Lyon</h3>
+<p>Prediction: BTTS</p>
+<p>Odds: 1.70</p>
+</div>
+
+</div>
+
+<footer>
+© 2026 Mtwiri Moto Football Tips
+</footer>
+
+<script src="js/script.js"></script>
+
+</body>body{
+font-family: Arial;
+background:#0b1d2a;
+color:white;
+text-align:center;
+margin:0;
+}
+
+header{
+background:#ff6600;
+padding:20px;
+font-size:28px;
+}
+
+.container{
+width:90%;
+max-width:700px;
+margin:auto;
+}
+
+.tip{
+background:#132f45;
+margin:20px;
+padding:20px;
+border-radius:10px;
+}
+
+footer{
+background:#09141d;
+padding:15px;
+margin-top:30px;
+}console.log("Mtwiri Moto Football Tips Loaded");
+</html>
